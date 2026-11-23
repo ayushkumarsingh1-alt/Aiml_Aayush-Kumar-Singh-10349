@@ -3,6 +3,7 @@ Experiment 5 : Classify students as topper, average, and fail using rule-based r
 
 
 
+
 marks(danish,99).
 marks(aayush,98).
 marks(sujal,13).
